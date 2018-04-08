@@ -1,0 +1,8 @@
+{
+  "name": "Vizim",
+  "app_id": "998eb6e8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
